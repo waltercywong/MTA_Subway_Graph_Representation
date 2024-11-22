@@ -50,3 +50,12 @@ pip install -r requirements.txt
 ### Step 4: Run Notebook
 
 Run code cells in `representation.ipynb` to create representation and query network. Markdown files with annotations explain data, graph schema, and queries.
+
+
+## File Structure
+
+- `README.md`: Overview and instructions for the project.
+- `requirements.txt`: List of Python dependencies required for the project.
+- `data/`: Contains datasets used or produced by the project.
+- `docs/`: Additional documentation and resources.
+- `src/`: Main source code for the project.
