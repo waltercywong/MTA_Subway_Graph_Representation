@@ -57,4 +57,6 @@ Run code cells in `representation.ipynb` to create representation and query netw
 - `README.md`: Overview and instructions for the project.
 - `requirements.txt`: List of Python dependencies required for the project.
 - `data/`: Contains datasets used or produced by the project.
+    - `mta_stations.csv`: Contains information for each station complex.
 - `src/`: Main source code for the project.
+    - `representation.ipynb`: Contains code for creating the graph representation and querying it.
